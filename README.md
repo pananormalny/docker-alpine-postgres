@@ -8,6 +8,7 @@ with a much smaller footprint. It achieves that by basing itself off the great
 ## Why?
 
 ```bash
+$ docker images
 REPOSITORY          TAG                 IMAGE ID            CREATED             VIRTUAL SIZE
 alpine-postgres     latest              82d0ddb748fd        About an hour ago   23.87 MB
 gliderlabs/alpine   3.3                 1e46923a8af6        12 days ago         4.794 MB
